@@ -1,1 +1,9 @@
+This example is of a simple RecyclerView. 
 
+Files
+    - RecyclerViewExample1.java:
+        Main Activity java file.
+    - activity_recycler_view_example1.xml:
+        Layout xml file of Activity.
+    - data_item.xml:
+        Layout xml file of data item.
