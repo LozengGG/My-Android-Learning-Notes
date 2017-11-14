@@ -1,1 +1,11 @@
+This example is of RecyclerView with different items in the Adapter.
 
+Files
+    - RecyclerViewExample2.java:
+        Main Activity java file.
+    - activity_recycler_view_example2.xml:
+        Layout xml file of Activity.
+    - item_text_image.xml:
+        Layout xml file of item with image and text.
+    - item_text_only.xml:
+        Layout xml file of item with only text.
