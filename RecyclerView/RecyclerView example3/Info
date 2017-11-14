@@ -1,1 +1,9 @@
+This example is of RecyclerView with items onClick events.
 
+Files
+    - RecyclerViewExample3.java:
+        Main Activity java file.
+    - activity_recycler_view_example3.xml:
+        Layout xml file of Activity.
+    - click_data_item.xml:
+        Layout xml file of item.
