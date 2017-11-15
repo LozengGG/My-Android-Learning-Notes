@@ -18,6 +18,7 @@ public class RecyclerViewExample2 extends AppCompatActivity {
         TEXT_ONLY,
         TEXT_IMAGE
     }
+    
     private ArrayList<String> testArray;
     private RecyclerView recyclerView;
     private LinearLayoutManager linearLayoutManager;
